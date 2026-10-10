@@ -1,0 +1,6 @@
+{
+  "name": "ZESTORA — Smart Dining Experience",
+  "description": "AI-powered dining companion featuring smart food recommendations, interactive digital menu, DineBot assistant, table reservations, digital cart, real-time order tracking, and loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
